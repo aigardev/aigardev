@@ -9,9 +9,9 @@ const aigardo = {
 }
 ```
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **startup and personal projects**
 
-- 🌱 I’m currently learning **UX/UI Design**
+- 🌱 I’m currently learning **UX/UI Design, Android Development**
 
 - 📫 How to reach me **aigardodev@gmail.com**
 
