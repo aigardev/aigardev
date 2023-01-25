@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Tarragona, Spain</h3>
 
 ```js
-const aigardo = {
+const aigardev = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Java, PostgreSQL],
   challenge: "I am focused on enhancing my profile with personal projects"
