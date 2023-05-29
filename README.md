@@ -4,7 +4,7 @@
 ```js
 const aigardev = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Java, PostgreSQL],
+  code: [Java, Kotlin, KMM, Jetpack Compose, PostgreSQL],
   challenge: "I am focused on enhancing my profile with personal projects"
 }
 ```
