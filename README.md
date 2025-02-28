@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aitor Garcia</h1>
-<h3 align="center">A backend developer from Tarragona, Spain</h3>
+<h3 align="center">An Android developer from Tarragona, Spain</h3>
 
 ```js
 const aigardev = {
   pronouns: "he" | "him",
-  code: [Java, Kotlin, KMM, Jetpack Compose, PostgreSQL],
+  code: [Java, Kotlin, KMM, Jetpack Compose, PostgreSQL, MongoDB],
   challenge: "I am focused on enhancing my profile with personal projects"
 }
 ```
@@ -13,7 +13,7 @@ const aigardev = {
 
 - 🌱 I’m currently learning **UX/UI Design, Android Development**
 
-- 📫 How to reach me **aigardodev@gmail.com**
+- 📫 How to reach me **garciadomenechaitor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
