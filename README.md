@@ -9,7 +9,7 @@ const aigardev = {
 }
 ```
 
-- 🔭 I’m currently working for **Extia on Ingineco and on personal projects**
+- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **UX/UI Design, Android Development**
 
