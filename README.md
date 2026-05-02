@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aitor Garcia</h1>
-<h3 align="center">An Android developer from Tarragona, Spain</h3>
+<h3 align="center">QA and Android developer from Tarragona, Spain</h3>
 
 ```js
 const aigardev = {
